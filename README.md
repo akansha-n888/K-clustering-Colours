@@ -16,10 +16,10 @@ The purpose of this project is to explore the K-means algorithm to apply unsuper
 * MATLAB- version R2020a
 
 ## Classified Data
-![Schematic](Images/db.PNG)
+![Schematic](Images/5.PNG)
 > 5 Colours in RGB Space (px)
 
-![Schematic](Images/table.PNG)
+![Schematic](Images/error.PNG)
 > Error Plot
 
 ## Status
